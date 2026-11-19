@@ -1,0 +1,12 @@
+streamlit==1.41.1
+requests==2.32.5
+networkx==3.3
+pandas==2.2.3
+numpy==2.3.5
+scikit-learn==1.6.0
+python-louvain==0.16
+pyvis==0.3.2
+matplotlib==3.10.0
+plotly==6.0.0
+pytest==8.3.4
+notebook==7.3.2
